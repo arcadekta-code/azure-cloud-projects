@@ -2,39 +2,15 @@
 
 ## Objective
 
-Create a Virtual Network (VNet) to provide secure network communication for Azure resources.
-
----
-
-## Azure Portal Navigation
-
-Home → Virtual Networks → Create
-
----
+Create a Virtual Network for Azure resources.
 
 ## Configuration
 
-- Virtual Network Name: vnet-abctech-prod-malaysiawest-01
-- Region: Malaysia West
-- Resource Group: rg-abctech-prod-malaysiawest-01
-- Address Space: Default Azure Address Space
+| Setting | Value |
+|---------|-------|
+| VNet | vnet-abctech-prod-malaysiawest-01 |
+| Address Space | 10.0.0.0/16 |
 
----
+## Outcome
 
-## Why Virtual Network?
-
-Azure Virtual Network provides secure communication between Azure resources.
-
-Benefits:
-
-- Network isolation
-- Secure communication
-- IP address management
-- Supports subnets
-- Enables future hybrid connectivity
-
----
-
-## Result
-
-Virtual Network created successfully for hosting the ABC Technologies infrastructure.
+Virtual Network created successfully.
