@@ -24,3 +24,18 @@ The solution required:
 - Testing website accessibility
 - Managing Azure resources
 - Optimizing Azure costs after deployment
+
+---
+
+# Azure Services Used
+
+- Azure Resource Groups
+- Azure Virtual Network (VNet)
+- Azure Subnet
+- Network Security Group (NSG)
+- Public IP Address
+- Windows Server Virtual Machine
+- IIS (Internet Information Services)
+- Azure Virtual Network Interface (NIC)
+- Azure Storage (Managed OS Disk)
+- Azure Monitoring
