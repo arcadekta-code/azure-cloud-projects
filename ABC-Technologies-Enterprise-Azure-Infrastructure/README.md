@@ -48,3 +48,23 @@ The solution required:
 The infrastructure was deployed using the following Azure architecture.
 
 > **Architecture diagram will be added here after project completion.**
+
+
+---
+
+# Deployment Workflow
+
+The following deployment sequence was followed during the project implementation.
+
+1. Create Resource Group
+2. Create Virtual Network
+3. Create Subnet
+4. Create Network Security Group (NSG)
+5. Create Public IP Address
+6. Deploy Windows Server Virtual Machine
+7. Connect to VM using Remote Desktop (RDP)
+8. Install IIS Web Server
+9. Deploy Sample Website
+10. Test Website using Public IP
+11. Stop and Deallocate Virtual Machine
+12. Clean up Azure Resources
