@@ -131,3 +131,20 @@ By completing this project, I gained practical hands-on experience in:
 - Managing Azure resources efficiently
 - Understanding Azure resource naming standards
 - Performing basic Azure cost optimization and resource cleanup
+
+---
+
+# Project Deliverables
+
+The following deliverables were successfully completed during the implementation of this project.
+
+- Azure Resource Group Deployment
+- Azure Virtual Network Configuration
+- Subnet Configuration
+- Windows Server Virtual Machine Deployment
+- Remote Desktop (RDP) Connectivity
+- IIS Web Server Installation
+- Website Hosting on IIS
+- Website Accessibility through Public IP
+- Azure Resource Cleanup
+- Azure Cost Optimization
