@@ -99,3 +99,18 @@ The following deployment sequence was followed during the project implementation
 - Virtual Networking
 - Secure Resource Deployment
 - Cloud Cost Management
+
+---
+
+# Azure Resource Naming Convention
+
+| Azure Resource | Name |
+|----------------|------------------------------------------------|
+| Resource Group | rg-abctech-prod-malaysiawest-01 |
+| Virtual Machine | vm-abctech-prod-web-01 |
+| Virtual Network | vnet-abctech-prod-malaysiawest-01 |
+| Subnet | snet-web |
+| Region | Malaysia West |
+| Subscription | Azure for Students |
+
+Following a consistent naming convention improves resource management, troubleshooting, automation, and governance.
