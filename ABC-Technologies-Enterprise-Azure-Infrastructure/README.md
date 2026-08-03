@@ -68,3 +68,34 @@ The following deployment sequence was followed during the project implementation
 10. Test Website using Public IP
 11. Stop and Deallocate Virtual Machine
 12. Clean up Azure Resources
+
+
+---
+
+# Skills Demonstrated
+
+## Azure Administration
+
+- Resource Group Management
+- Azure Virtual Network (VNet)
+- Subnet Configuration
+- Network Security Group (NSG)
+- Public IP Management
+- Windows Server Virtual Machine Deployment
+- Azure Resource Management
+- Azure Cost Optimization
+
+## Windows Administration
+
+- Remote Desktop (RDP)
+- IIS Web Server Installation
+- Website Hosting
+- Basic Windows Server Administration
+
+## Cloud Concepts
+
+- Infrastructure as a Service (IaaS)
+- Azure Resource Organization
+- Virtual Networking
+- Secure Resource Deployment
+- Cloud Cost Management
