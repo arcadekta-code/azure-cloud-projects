@@ -114,3 +114,20 @@ The following deployment sequence was followed during the project implementation
 | Subscription | Azure for Students |
 
 Following a consistent naming convention improves resource management, troubleshooting, automation, and governance.
+
+---
+
+# Learning Outcomes
+
+By completing this project, I gained practical hands-on experience in:
+
+- Deploying Azure infrastructure from the Azure Portal
+- Managing Azure Resource Groups
+- Configuring Azure Virtual Networks and Subnets
+- Deploying Windows Server Virtual Machines
+- Connecting to Azure Virtual Machines using Remote Desktop (RDP)
+- Installing and configuring IIS Web Server
+- Hosting a website on Azure
+- Managing Azure resources efficiently
+- Understanding Azure resource naming standards
+- Performing basic Azure cost optimization and resource cleanup
