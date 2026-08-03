@@ -39,3 +39,12 @@ The solution required:
 - Azure Virtual Network Interface (NIC)
 - Azure Storage (Managed OS Disk)
 - Azure Monitoring
+
+
+---
+
+# Architecture
+
+The infrastructure was deployed using the following Azure architecture.
+
+> **Architecture diagram will be added here after project completion.**
