@@ -2,37 +2,19 @@
 
 ## Objective
 
-Create a Resource Group to organize Azure resources for the ABC Technologies infrastructure project.
+Create a Resource Group to organize Azure resources.
 
----
+## Azure Resource
 
-## Azure Portal Navigation
-
-Home → Resource Groups → Create
-
----
+- Resource Group
 
 ## Configuration
 
-- Resource Group Name: rg-abctech-prod-malaysiawest-01
-- Subscription: Azure for Students
-- Region: Malaysia West
+| Setting | Value |
+|---------|-------|
+| Resource Group | rg-abctech-prod-malaysiawest-01 |
+| Region | Malaysia West |
 
----
+## Outcome
 
-## Why Resource Group?
-
-A Resource Group is a logical container that stores and manages Azure resources together.
-
-Benefits:
-- Easy resource management
-- Cost tracking
-- Access control (RBAC)
-- Resource cleanup
-- Organized deployments
-
----
-
-## Result
-
-Resource Group created successfully and used for deploying the remaining infrastructure.
+The Resource Group was successfully created and became the container for all project resources.
