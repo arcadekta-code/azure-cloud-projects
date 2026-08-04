@@ -14,4 +14,6 @@ This folder contains the architecture and deployment design of the **ABC Technol
 - Azure Monitor
 - Activity Log
 
-> **Note:** The architecture diagram will be added to this folder.
+## Architecture Diagram
+
+![Azure Architecture](Architecture/azure-architecture-diagram.png)
